@@ -1,6 +1,13 @@
 # networks-2022
 
-Сборка и запуск 
-'''yaml
-docker-compose up --build
-'''
+Команда для сборки проекта
+
+```shell
+  docker-compose build
+```
+
+Команда для запуска
+
+```shell
+  docker-compose up
+```
