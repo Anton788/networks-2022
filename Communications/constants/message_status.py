@@ -1,0 +1,4 @@
+CREATED = 1
+SENT = 2
+RECEIVED = 3
+READ = 4

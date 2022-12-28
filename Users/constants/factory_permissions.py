@@ -1,0 +1,14 @@
+PRODUCT_INTERACTION_PERMISSION = "product_interaction_permission"
+FACTORY_INFO_PERMISSION = "factory_info_permission"
+ADD_USERS_PERMISSION = "add_users_permission"
+PROPOSAL_PERMISSION = "proposal_permission"
+CREATE_ORDERS_PERMISSION = "create_orders_permission"
+
+
+LIST = [
+    PRODUCT_INTERACTION_PERMISSION,
+    FACTORY_INFO_PERMISSION,
+    ADD_USERS_PERMISSION,
+    PROPOSAL_PERMISSION,
+    CREATE_ORDERS_PERMISSION,
+]

@@ -1,0 +1,1 @@
+from .TG_ADMINS import ADMIN_INFO, ADMIN_TG_IDS

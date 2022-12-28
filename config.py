@@ -1,0 +1,4 @@
+MEILI_MASTER_KEY = "MEILI_awdbjhadHADdnakwdnkja"
+MEILISEARCH_ADDRESS = 'localhost:7700'
+# MEILISEARCH_ADDRESS = 'http://178.154.244.46:7700'
+
